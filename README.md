@@ -6,7 +6,7 @@ ResumeSite
 #### [Leetcode Profile] https://github.com/GideonDayo
 
 Team Survivor.io Inspired game
-#https://github.com/Yellowguy08/teamGame
+#### [TeamGame] https://github.com/Yellowguy08/teamGame
 
 PokemonAPI
 
