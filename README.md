@@ -1,16 +1,15 @@
 <base target="_blank">
-### ResumeSite
-ResumeSite
+## Gideon Dayos Portfolio
 
 ## Accounts
-#### [Leetcode Profile] https://github.com/GideonDayo
+#### [Leetcode Profile] (https://github.com/GideonDayo)
 
 Team Survivor.io Inspired game
-#### [TeamGame] https://github.com/Yellowguy08/teamGame
+#### [TeamGame] (https://github.com/Yellowguy08/teamGame)
 
 PokemonAPI
 
 BasketballAPI
 
 
-#### [Freakopoly] https://github.com/GideonDayo/Freakopoly
+#### [Freakopoly] (https://github.com/GideonDayo/Freakopoly)
