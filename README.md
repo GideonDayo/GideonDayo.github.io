@@ -13,3 +13,14 @@ BasketballAPI
 
 
 #### [Freakopoly] (https://github.com/GideonDayo/Freakopoly)
+
+
+#### [Card Game App (BalaClone] (Working on linking Godot to GitHub)
+
+
+
+#### [Fords Wellness App] (https://github.com/cwalter50/FordsWellness/tree/GideonSignUp)
+
+
+
+
